@@ -1,2 +1,2 @@
-# PyPassword Generator
+# PyPassword Generator 🔒
 ## Python Loops
