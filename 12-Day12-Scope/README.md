@@ -1,2 +1,3 @@
 # Number Guessing Game
+
 ## Scope
